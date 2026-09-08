@@ -17,7 +17,7 @@ Welcome to my certificates repository! This space serves as a verified record of
 
 ### 🧪 Quality Assurance & Software Testing
 *   **Microsoft** – Software Testing Fundamentals and Methodologies
-*   ⏳ *[In Progress]* **Microsoft** – Manual Testing and Defect Management
+*   **Microsoft** – Manual Testing and Defect Management
 
 ---
 
